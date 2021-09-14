@@ -1,6 +1,6 @@
 # Landmark Detection
 
-This project contains three landmark detection algorithms, implemented in [PyTorch](pytorch.org).
+This project contains three landmark detection algorithms, implemented in [PyTorch](https://pytorch.org/).
 
 - Style Aggregated Network for Facial Landmark Detection, CVPR 2018
 - Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors, CVPR 2018
